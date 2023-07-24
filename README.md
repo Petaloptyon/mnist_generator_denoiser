@@ -7,4 +7,6 @@ How it works:
  - constract GAN from connection layers and denoisers
  - train gan
 
-############################### now i am iproving model ############################
+During training gan with different architectures of connection models, i notice, that connection model must pick out main points from pictures. When i use same or more complex conntion layers as denoisers, result instantly became evarage (gan start to predicting the averaged results over the entire dataset). Also when i trained denoisers, train connection layers, create gan, start train all model (all weights was trainable) result start becoming evarage.
+ 
+############################### now i am iproving model ###########################
