@@ -17,6 +17,6 @@ Here is the reuslt of third train (when i train full gan):
 
 Perhaps if I had more resources on google colab I would train it better, but already now you can consider some numbers (9, 7, 0, 3, 8, 4)
 
-If you want to run my Gan you should do it on google colab. (remember about trainable and non-trainable weights)
+If you want to run my Gan you should do it on google colab. Sorry for not attaching weights, but I can't upload files to github that weigh more than 25 MB
 
-############################### now i am iproving model ###########################
+############################### now i am iproving model ###############################
