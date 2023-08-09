@@ -15,7 +15,7 @@ Here is the reuslt of third train (when i train full gan):
 
 ![gan_denoiser_3](https://github.com/Petaloptyon/mnist_generator_denoisers/assets/131547274/c40f6a06-470c-4531-a6ff-43e895846ade)
 
-Perhaps if I had more resources on google colab I would train it better, but already now you can consider some numbers (9, 7, 0, 3, 8, 4)
+Perhaps if I had more resources on google colab I would train it better, but already now you can consider some digits (9, 7, 0, 3, 8, 4)
 
 If you want to run my Gan you should do it on google colab. Sorry for not attaching weights, but I can't upload files to github that weigh more than 25 MB
 
