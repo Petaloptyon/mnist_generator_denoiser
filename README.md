@@ -19,9 +19,8 @@ Perhaps if I had more resources on google colab I would train it better, but alr
 
 If you want to run my Gan you should do it on google colab. Sorry for not attaching weights, but I can't upload files to github that weigh more than 25 MB
 
-I improve my GAN (i do the same here: https://github.com/Petaloptyon/mnist_generator_by_prompt) if you wanna know more details, look at my code. Now my GAN has only one lack and can't fix it yet, so lack is that it averaging all samples. I apply weights above if wanna know how to use any weight just look at code at partition `train` -> `Train denoisers and gan_model`.
-So here is the result. I ask to draw 021324354657687980 and here it is: 
+I've improved my GAN (I've done the same here: https://github.com/Petaloptyon/mnist_generator_by_prompt ) if you want to know more details, see my code. However, my GAN has only one flaw and I can't fix it yet, so the flaw is that it averages all the samples. I attach weights above, if you want to know how to use any weight, just look at the code in the section ``train`` -> ``Train denoisers and gan_model``. So, here is the result. I asked to draw 021324354657687980 and that's what happened:
 
 ![image](https://github.com/Petaloptyon/mnist_generator_denoiser/assets/131547274/c9e6da3b-2956-4b82-adba-1f4f57af474a)
 
-``If you know how improve my GAN please write me.``
+If you know how to improve my GAN, please email me.
