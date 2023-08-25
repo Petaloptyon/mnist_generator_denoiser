@@ -1,3 +1,5 @@
+*`If you use my code, please attach a link to it, respect someone else's work`*
+
 In this repository you can see my trials to do gan by using many denoisers. 
 How it works: 
  - create dataset from datasets, by adding little noise to all images from preveous dataset, starting from initial train dataaset;
